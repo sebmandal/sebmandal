@@ -23,5 +23,5 @@ Howdy there! Welcome to my GitHub!
 - Building a dynamic web app using MERN for a client in Norway. They will have an admin panel with the ability to change products, links, etc.
 - Making a music video for an artist in Norway. Info coming soon.
 
-### Links
+## Links
 - **[tycrek](https://github.com/tycrek)**
