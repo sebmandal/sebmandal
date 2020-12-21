@@ -32,4 +32,4 @@ You can check out more at **[my website](https://spdm.dev)**.
 
 ## Links
 - **[tycrek](https://github.com/tycrek)**
-- **[Coding Crew](https://discord.gg/6Y93Gwd)**
+- **[Coding Crew invite](https://discord.gg/6Y93Gwd)**
