@@ -1,5 +1,7 @@
 # Sebastian Pritchard-Davies Mandal
 Howdy there! Welcome to my GitHub!
+
+I am a full-stack developer. I started by watching 6/10/12-hour videos about Python, and then started reading documentation and experimenting by myself.
 You can check out more at **[my website](https://spdm.dev)**.
 
 ## Languages
@@ -30,6 +32,10 @@ You can check out more at **[my website](https://spdm.dev)**.
 - I want to create an application (that somehow helps users simplify their every-day lives) using Swift and release it on the App Store.
 - Automate my daily tasks
 - Register an official private company
+
+## Contact
+- **[email](mailto:sebastian.mandal@icloud.com)**
+- **[twitter](https://twitter.com/pritchardmandal)**
 
 ## Links
 - **[tycrek](https://github.com/tycrek)**
