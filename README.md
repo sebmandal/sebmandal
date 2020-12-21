@@ -1,16 +1,25 @@
-### Hi there 👋
+# Sebastian Pritchard-Davies Mandal
+Howdy there! Welcome to my GitHub!
 
-<!--
-**sebastianmandal/sebastianmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+- Python
+- Javascript
+-- Node.js
+-- MERN/MEAN
+-- Pug/Jade
+- C# (learning)
+- Java (learning)
 
-Here are some ideas to get you started:
+## Tools
+- Safari
+- VSC
+- MacBook/iMac/Dell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## On-going/current Projects
+- Building a dynamic web app using MERN for a client in Norway. They will have an admin panel with the ability to change products, links, etc.
+- A server management bot for Discord servers called EasyServerManagement (short: ESM)
+- I founded a Discord server called __Coding Crew__ alongside @Tycrek, this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
+- Making a music video for an artist in Norway. Info coming soon.
+
+### Links
+- tycrek: https://github.com/tycrek
