@@ -19,6 +19,7 @@ You can check out more at **[my website](https://spdm.dev)**.
 
 ## On-going/current Projects
 ### Public
+- **[My personal website](https://spdm.dev)** - My resume/CV/about me website
 - **[EasyServerManagement](https://github.com/sebastianmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
 - **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside @Tycrek, this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
 ### Private
