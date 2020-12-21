@@ -8,6 +8,8 @@ You can check out more at **[my website](https://spdm.dev)**.
 -- Node.js
 -- MERN/MEAN
 -- Pug/Jade
+- Swift
+- Objective-C
 - C# (learning)
 - Java (learning)
 
