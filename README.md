@@ -14,7 +14,8 @@ You can check out more at **[my website](https://spdm.dev)**.
 ## Tools
 - Safari
 - VSC
-- MacBook/iMac/Dell
+### I code with these:
+- MacBook/iMac/Dell/iPhone
 
 ## On-going/current Projects
 ### Public
