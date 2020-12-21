@@ -5,7 +5,7 @@ You can check out more at **[my website](https://spdm.dev)**.
 ## Languages
 - Python
 - Javascript
--- Vanilla, Express, Angular, Node.js, MERN/MEAN, Pug/Jade
+-- Vanilla, React, Express, Angular, Node.js, MERN/MEAN, Pug/Jade
 - Swift
 - Objective-C
 - C# (learning)
