@@ -1,5 +1,6 @@
 # Sebastian Pritchard-Davies Mandal
 Howdy there! Welcome to my GitHub!
+You can check out more at **[my website](https://spdm.dev)**.
 
 ## Languages
 - Python
