@@ -26,5 +26,10 @@ You can check out more at **[my website](https://spdm.dev)**.
 - Building a dynamic web app using MERN for a client in Norway. They will have an admin panel with the ability to change products, links, etc.
 - Making a music video for an artist in Norway. Info coming soon.
 
+## What I want to do in the future
+- I want to create an application (that somehow helps users simplify their every-day lives) using Swift and release it on the App Store.
+- Automate my daily tasks
+- Register an official private company
+
 ## Links
 - **[tycrek](https://github.com/tycrek)**
