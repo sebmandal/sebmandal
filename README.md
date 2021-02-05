@@ -10,14 +10,20 @@ You can check out more at **[my website](https://spdm.dev)**.
 -- Vanilla, React, Express, Angular, Node.js, MERN/MEAN, Pug/Jade
 - Swift
 - Objective-C
-- C# (learning)
-- Java (learning)
+
+## Learning / not fully learned
+- C#
+- C++
+- Java
 
 ## Tools
 - Safari
 - VSC
 ### I code with these:
-- MacBook/iMac/Dell/iPhone
+- MacBook
+- iMac
+- Dell
+- iPhone (yes I have both a compiler and IDE on my phone)
 
 ## On-going/current Projects
 ### Public
