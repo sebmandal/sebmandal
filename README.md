@@ -2,7 +2,7 @@
 Howdy there! Welcome to my GitHub!
 
 I am a full-stack developer. I started by watching 6/10/12-hour videos about Python, and then started reading documentation and experimenting by myself.
-You can check out more at **[my website](https://spdm.dev)**.
+You can check out more at **[my website](https://sebmandal.com)**.
 
 ## Primary Languages (what I do most and my expertises)
 - Python
@@ -27,7 +27,7 @@ You can check out more at **[my website](https://spdm.dev)**.
 
 ## On-going/current Projects
 ### Public
-- **[My personal website](https://spdm.dev)** - My resume/CV/about me website
+- **[My personal website](https://sebmandal.com)** - My resume/CV/about me website
 - **[EasyServerManagement](https://github.com/sebastianmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
 - **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside @Tycrek, this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
 ### Private
