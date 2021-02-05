@@ -4,14 +4,14 @@ Howdy there! Welcome to my GitHub!
 I am a full-stack developer. I started by watching 6/10/12-hour videos about Python, and then started reading documentation and experimenting by myself.
 You can check out more at **[my website](https://spdm.dev)**.
 
-## Languages
+## Primary Languages (what I do most and my expertises)
 - Python
 - Javascript
 -- Vanilla, React, Express, Angular, Node.js, MERN/MEAN, Pug/Jade
 - Swift
 - Objective-C
 
-## Learning / not fully learned
+## Secondary (what I do less, but decently know)
 - C#
 - C++
 - Java
