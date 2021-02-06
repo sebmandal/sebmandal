@@ -17,8 +17,8 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Java
 
 ## Tools
-- Safari
-- VSC
+- Safari and Chrome (depending on OS)
+- VSC / IntelliJ
 ### I code with these:
 - MacBook
 - iMac
@@ -33,6 +33,7 @@ You can check out more at **[my website](https://sebmandal.com)**.
 ### Private
 - Building a dynamic web app using MERN for a client in Norway. They will have an admin panel with the ability to change products, links, etc.
 - Making a music video for an artist in Norway. Info coming soon.
+- Python automation/AI
 
 ## What I want to do in the future
 - I want to create an application (that somehow helps users simplify their every-day lives) using Swift and release it on the App Store.
