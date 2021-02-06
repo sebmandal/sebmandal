@@ -29,7 +29,7 @@ You can check out more at **[my website](https://sebmandal.com)**.
 ### Public
 - **[My personal website](https://sebmandal.com)** - My resume/CV/about me website
 - **[EasyServerManagement](https://github.com/sebastianmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
-- **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside @Tycrek, this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
+- **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside [@tycrek](https://github.com/tycrek), this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
 ### Private
 - Building a dynamic web app using MERN for a client in Norway. They will have an admin panel with the ability to change products, links, etc.
 - Making a music video for an artist in Norway. Info coming soon.
