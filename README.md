@@ -5,16 +5,15 @@ I am a full-stack developer. I started by watching 6/10/12-hour videos about Pyt
 You can check out more at **[my website](https://sebmandal.com)**.
 
 ## Primary Languages (what I do most and my expertises)
+- Javascript (node.js, etc.)
 - Python
-- Javascript
--- Vanilla, React, Express, Angular, Node.js, MERN/MEAN, Pug/Jade
-- Swift
-- Objective-C
 
 ## Secondary (what I do less, but decently know)
 - C#
 - C++
 - Java
+- Objective-C
+- Swift
 
 ## Tools
 - Safari and Chrome (depending on OS)
@@ -25,24 +24,24 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Dell
 - iPhone (yes I have both a compiler and IDE on my phone)
 
-## On-going/current Projects
+## Projects
 ### Public
-- **[My personal website](https://sebmandal.com)** - My resume/CV/about me website
-- **[EasyServerManagement](https://github.com/sebastianmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
+- **[My personal website](https://sebmandal.com)** - My personal website for whatever
+- **[EasyServerManagement](https://github.com/sebmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
 - **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside [@tycrek](https://github.com/tycrek), this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
 ### Private
-- Building a dynamic web app using MERN for a client in Norway. They will have an admin panel with the ability to change products, links, etc.
-- Making a music video for an artist in Norway. Info coming soon.
+- Building a dynamic web MERN app for a client in Norway.
+- Making a music video for an artist in Norway. Info may be coming soon.
 - Python automation/AI
 
 ## What I want to do in the future
-- I want to create an application (that somehow helps users simplify their every-day lives) using Swift and release it on the App Store.
-- Automate my daily tasks
-- Register an official private company
+- I want to create a web application to help others simplify daily tasks, or to just make people's lives easier in some way
+- Automate literally all of my daily tasks
+- Register an official, possibly publicly traded corporation
 
 ## Contact
 - **[email](mailto:sebastian.mandal@icloud.com)**
-- **[twitter](https://twitter.com/pritchardmandal)**
+- Discord: seb#1337
 
 ## Links
 - **[tycrek](https://github.com/tycrek)**
