@@ -18,8 +18,9 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Swift
 
 ## Tools
+### Browser/IDE/Text editor
 - Safari and Chrome (depending on OS)
-- VSC / IntelliJ
+- VSC / IntelliJ / Whatever shall suffice
 ### My primary tools:
 - MacBook
 ### My secondary tools (in case my MacBook doesn't work):
