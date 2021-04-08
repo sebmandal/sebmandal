@@ -1,7 +1,9 @@
 # Sebastian Pritchard-Davies Mandal
 Howdy there! Welcome to my GitHub!
 
-I am a full-stack developer. I started by watching 6/10/12-hour videos about Python, and then started reading documentation and experimenting by myself.
+I am a full-stack developer. (or at least trying to be) 
+I started by watching 6/10/12-hour videos about Python, and then started reading documentation and experimenting by myself.
+I've found a love for web development, but I'm flexible and always wanting to learn new things!
 You can check out more at **[my website](https://sebmandal.com)**.
 
 ## Primary Languages (what I do most and my expertises)
@@ -18,8 +20,9 @@ You can check out more at **[my website](https://sebmandal.com)**.
 ## Tools
 - Safari and Chrome (depending on OS)
 - VSC / IntelliJ
-### I code with these:
+### My primary tools:
 - MacBook
+### My secondary tools (in case my MacBook doesn't work):
 - iMac
 - Dell
 - iPhone (yes I have both a compiler and IDE on my phone)
