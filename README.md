@@ -39,9 +39,9 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Python automation/AI
 
 ## What I want to do in the future
-- I want to create a web application to help others simplify daily tasks, or to just make people's lives easier in some way
-- Automate literally all of my daily tasks
-- Register an official, possibly publicly traded corporation
+- I want to create an application to help others simplify daily tasks, or to just make people's lives easier in some way.
+- Automate all the annoying tasks I have to do on a daily basis.
+- I want to start a business that sells services like website development and tech support, etc.
 
 ## Contact
 - **[email](mailto:sebastian.mandal@icloud.com)**
