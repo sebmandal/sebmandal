@@ -28,11 +28,12 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Dell
 - iPhone (yes I have both a compiler and IDE on my phone)
 
-## Projects
+## Projects / Accomplishments
 ### Public
 - **[My personal website](https://sebmandal.com)** - My personal website for whatever
 - **[EasyServerManagement](https://github.com/sebmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
-- **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside [@tycrek](https://github.com/tycrek), this server's purpose is to help out any coder's problems, finding teams for projects, collaborating, and simply just having a fun place for coders to be.
+- **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside [@tycrek](https://github.com/tycrek), this server's purpose is to help out any programmer's problems, finding teams for projects, collaborating, and simply just having a fun place for programmers to hang out.
+- I taught an 8th grade class the basics of Python every Friday for about 5 weeks, unfortunately cancelled because of the pandemic.
 ### Private
 - Building a dynamic web MERN app for a client in Norway.
 - Making a music video for an artist in Norway. Info may be coming soon.
