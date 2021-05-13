@@ -8,7 +8,9 @@ You can check out more at **[my website](https://sebmandal.com)**.
 
 ## Primary Languages (what I do most and my expertises)
 - Javascript (node.js, etc.)
-- Python
+- Typescript
+- Anything web related
+- Python (I don't do much with Python, but I'm decent at it)
 
 ## Secondary (what I do less, but decently know)
 - C#
