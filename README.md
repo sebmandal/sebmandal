@@ -7,7 +7,7 @@ I've found a love for web development, but I'm flexible and always wanting to le
 You can check out more at **[my website](https://sebmandal.com)**.
 
 ## Primary Languages (what I do most and my expertises)
-- Javascript (node.js, etc.)
+- Javascript (node.js, Express, etc.)
 - Typescript
 - Anything web related
 - Python (I don't do much with Python, but I'm decent at it)
