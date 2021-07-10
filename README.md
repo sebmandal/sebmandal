@@ -26,9 +26,8 @@ You can check out more at **[my website](https://sebmandal.com)**.
 ### My primary tools:
 - MacBook
 ### My secondary tools (in case my MacBook doesn't work):
-- iMac
-- Dell
-- iPhone (yes I have both a compiler and IDE on my phone)
+- Dell XPS 15
+- iPhone 12PM (yes I have both a compiler and text/file editor on my phone)
 
 ## Projects / Accomplishments
 ### Public
