@@ -11,7 +11,6 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Typescript
 - Anything web related
 - Python (I don't do much with Python, but I'm decent at it)
-
 - I can easily adapt however, so any language requested should be fine! :)
 
 ## Tools
