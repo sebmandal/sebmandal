@@ -12,12 +12,7 @@ You can check out more at **[my website](https://sebmandal.com)**.
 - Anything web related
 - Python (I don't do much with Python, but I'm decent at it)
 
-## Secondary (what I do less, but decently know)
-- C#
-- C++
-- Java
-- Objective-C
-- Swift
+- I can easily adapt however, so any language requested should be fine! :)
 
 ## Tools
 ### Browser/IDE/Text editor
@@ -28,22 +23,6 @@ You can check out more at **[my website](https://sebmandal.com)**.
 ### My secondary tools (in case my MacBook doesn't work):
 - Dell XPS 15
 - iPhone 12PM (yes I have both a compiler and text/file editor on my phone)
-
-## Projects / Accomplishments
-### Public
-- **[My personal website](https://sebmandal.com)** - My personal website for whatever
-- **[EasyServerManagement](https://github.com/sebmandal/EasyServerManagement)** - A server management bot for Discord servers called EasyServerManagement (short: ESM)
-- **[Coding Crew](https://discord.gg/6Y93Gwd)** - I founded a Discord server called **Coding Crew** alongside [@tycrek](https://github.com/tycrek), this server's purpose is to help out any programmer's problems, finding teams for projects, collaborating, and simply just having a fun place for programmers to hang out.
-- I taught an 8th grade class the basics of Python every Friday for about 5 weeks, unfortunately cancelled because of the pandemic.
-### Private
-- Building a dynamic web MERN app for a client in Norway.
-- Making a music video for an artist in Norway. Info may be coming soon.
-- Python automation/AI
-
-## What I want to do in the future
-- I want to create an application to help others simplify daily tasks, or to just make people's lives easier in some way.
-- Automate all the annoying tasks I have to do on a daily basis.
-- I want to start a business that sells services like website development and tech support, etc.
 
 ## Contact
 - **[email](mailto:sebastian.mandal@icloud.com)**
