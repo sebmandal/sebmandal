@@ -1,31 +1,39 @@
-# Sebastian Pritchard-Davies Mandal
-Howdy there! Welcome to my GitHub!
+<div align="center">
+  <h1>
+    <img height="180" alt="profile pic" src="https://cdn.discordapp.com/attachments/845438745939673088/867739877939085322/unknown.png"></img>
+    <br />
+    Sebastian Mandal
+  </h1>
+</div>
 
-I am a full-stack developer. (or at least trying to be) 
-I started by watching 6/10/12-hour videos about Python, and then started reading documentation and experimenting by myself.
-I've found a love for web development, but I'm flexible and always wanting to learn new things!
-You can check out more at **[my website](https://sebmandal.com)**.
+🙋🏻‍♂️ Hey there, welcome to my GitHub page!
+========================================
 
-## Primary Languages (what I do most and my expertises)
-- Javascript (node.js, Express, etc.)
-- Typescript
-- Python (I don't do much with Python, but I'm decent at it)
-- I can easily adapt however, so any language requested should be fine! :)
+My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-stack web developer from Norway.
 
-## Tools
-### Browser/IDE/Text editor
-- Safari and Chrome (depending on OS)
-- VSC / IntelliJ / Whatever shall suffice
-### My primary tools:
-- MacBook
-### My secondary tools (in case my MacBook doesn't work):
-- Dell XPS 15
-- iPhone 12PM (yes I have both a compiler and text/file editor on my phone)
+🖥 Current projects
+===================
 
-## Contact
-- **[email](mailto:sebastian.mandal@icloud.com)**
-- Discord: seb#1337
+* 🍀 [Mando](https://github.com/sebmandal/mando) - A Discord utility bot written in Typescript with developers in mind.
+* 🌻 Web templates - I'm constantly making new full-stack web templates.
+* 🦋 I'm learning React and SQL databases
 
-## Links
-- **[tycrek](https://github.com/tycrek)**
-- **[Coding Crew invite](https://discord.gg/6Y93Gwd)**
+🗣 Primary Languages
+====================
+
+* ⭐︎ Typescript
+* Javascript (node.js and vanilla)
+* Python
+* I can easily adapt however, so any language should be fine on a project
+
+📊 Statistics
+=============
+
+![Sebastian Mandal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebmandal&count_private=true&show_icons=true&theme=tokyonight)
+
+📇 Contact me
+=============
+
+* **[My website](https://sebmandal.com)**
+* **[My email](mailto:sebastian.mandal@icloud.com)**
+* My Discord: sebmandal#1337
