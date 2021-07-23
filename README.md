@@ -16,7 +16,7 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 
 * 🍀 [Mando](https://github.com/sebmandal/mando) - A Discord utility bot written in Typescript with developers in mind.
 * 🌻 Web templates - I'm constantly making new full-stack web templates.
-  * [tebone (TEB1)](https://github.com/sebmandal/tebone)
+  * ➜ [tebone](https://github.com/sebmandal/tebone)
 * 🦋 I'm learning React and SQL databases
 
 🗣 Primary Languages
