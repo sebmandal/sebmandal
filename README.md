@@ -18,6 +18,12 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 * ➜ [tebone](https://github.com/sebmandal/tebone) - An Express and Nodejs backend built in Typescript, made for ease of development. Tutorial video may be coming soon.
 * ➜ I'm learning React, SQL, and Regex
 
+🌠 Projects I want to do in the future
+===================
+* A React and Express finance web application written in Typescript (to learn and get accustomed to React)
+* Way more open-source projects and contributions to other developers.
+* Go full throttle on my business. To follow my lifelong dream of becoming a successful entrepreneur and CEO. This is a few years into the future still.
+
 🗣 Primary Languages
 ====================
 
