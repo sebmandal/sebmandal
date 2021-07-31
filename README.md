@@ -14,21 +14,21 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 🖥 Current projects
 ===================
 
-* ➜ [Mando](https://github.com/sebmandal/mando) - A Discord utility bot written in Typescript with developers in mind.
-* ➜ [tebone](https://github.com/sebmandal/tebone) - An Express and Nodejs backend built in Typescript, made for ease of development. Tutorial video may be coming soon.
-* ➜ I'm learning React, SQL, and Regex
+* [Mando](https://github.com/sebmandal/mando) - A Discord utility bot written in Typescript with developers in mind.
+* [tebone](https://github.com/sebmandal/tebone) - An Express and Nodejs backend built in Typescript, made for ease of development. Tutorial video may be coming soon.
+* I'm learning React, SQL, and Regex
 
-🌠 Projects I want to do in the future
+🌠 Future Projects
 ===================
 * A React and Express finance web application written in Typescript (to learn and get accustomed to React)
-* Way more open-source projects and contributions to other developers.
+* Way more open-source projects and contributions to other open-source communities and developers.
 * Go full throttle on my business. To follow my lifelong dream of becoming a successful entrepreneur and CEO. This is a few years into the future still.
 
 🗣 Primary Languages
 ====================
 
 * ⭐︎ Typescript
-* Javascript (node.js and vanilla)
+* Javascript (Node.js and [vanilla](http://vanilla-js.com/))
 * Python
 * I can easily adapt however, so any language should be fine on a project
 
@@ -40,6 +40,6 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 📇 Contact me
 =============
 
-* **[My website](https://sebmandal.com)**
-* **[My email](mailto:sebastian.mandal@icloud.com)**
-* My Discord: sebmandal#1337
+* **[Website](https://sebmandal.com)**
+* **[Email](mailto:sebastian.mandal@icloud.com)**
+* Discord: sebmandal#1337
