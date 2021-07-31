@@ -42,4 +42,4 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 
 * **[Website](https://sebmandal.com)**
 * **[Email](mailto:sebastian.mandal@icloud.com)**
-* Discord: sebmandal#1337
+* Discord: `sebmandal#1337`
