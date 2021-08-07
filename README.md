@@ -18,7 +18,7 @@ I'm currently studying [IT and media production at Akademiet Sundland](https://w
 
 * [tebone](https://github.com/sebmandal/tebone) - A TypeScript Express web framework making it easier than ever to add Express routes and build web apps.
 * [Mando](https://github.com/sebmandal/mando) - A Discord utility bot written in TypeScript with developers in mind, built in a similar fashion to tebone.
-* [My website](https://github.com/sebmandal/web) - Built using my tebone framework.
+* [My website](https://sebmandal.com) - Built using my tebone framework. Git repo: [sebmandal/web](https://github.com/sebmandal/web) - [live dev website updates](https://dev.sebmandal.com)
 * I'm learning React and Regular Expressions
 * I'm going to learn SQL soon
 
