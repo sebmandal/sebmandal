@@ -47,3 +47,5 @@ I'm currently studying [IT and media production at Akademiet Sundland](https://w
 * **[Website](https://sebmandal.com)**
 * **[Email](mailto:sebastian.mandal@icloud.com)**
 * Discord: `sebmandal#1337`
+
+###### for those who didn't get it, the vanilla website is simply satire, when I say vanilla I mean literal vanilla JS for the web
