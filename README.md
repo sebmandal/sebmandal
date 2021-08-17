@@ -37,6 +37,8 @@ I'm currently studying [IT and media production at Akademiet Sundland](https://w
 * Python
 * I can easily adapt however, so any language should be fine on a project
 
+(English and Norwegian are my primary irl languages)
+
 📊 Statistics
 =============
 
