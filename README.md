@@ -11,7 +11,7 @@
 
 My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-stack web developer from Norway.
 
-I'm currently studying [IT and media production at Akademiet Sundland](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
+I'm currently studying [IT and media production at Akademiet Drammen](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
 
 🖥 Current projects
 ===================
