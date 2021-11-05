@@ -20,7 +20,7 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 * [Mando](https://github.com/sebmandal/mando) - A Discord utility bot written in TypeScript with developers in mind, built in a similar fashion to tebone.
   * I'm currently rewriting the entire bot to accomodate for /commands (slash commands).
 * [My website](https://sebmandal.com) - Built using my tebone framework. Git repo: [sebmandal/web](https://github.com/sebmandal/web) (consider open sourcing this)
-* I'm learning React and Regular Expressions
+* I'm learning React
 * I'm going to learn SQL soon
 
 🌠 Future Projects
@@ -35,6 +35,7 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 * ⭐︎ Typescript
 * Javascript (Node.js and [vanilla](http://vanilla-js.com/))
 * Python
+* RegEx
 * I can easily adapt however, so any language should be fine on a project
 
 (English and Norwegian are my primary irl languages)
