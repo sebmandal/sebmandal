@@ -16,10 +16,16 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 📖 Want to learn
 ================
 
-cryptography, machine learning, statistics
-working with large datasets for apis
-react, next, redux, e2e encryption, blockchain
-decentralised web
+- cryptography
+- machine learning
+- statistics
+- working with large datasets for apis
+- react
+- next
+- redux
+- e2e encryption
+- blockchain
+- decentralised web
 
 🖥 Current projects
 ===================
