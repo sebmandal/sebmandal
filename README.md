@@ -13,6 +13,14 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 
 I'm currently studying [IT and media production at Akademiet Drammen](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
 
+📖 Want to learn
+================
+
+cryptography, machine learning, statistics
+working with large datasets for apis
+react, next, redux, e2e encryption, blockchain
+decentralised web
+
 🖥 Current projects
 ===================
 
@@ -22,12 +30,6 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 * [My website](https://sebmandal.com) - Built using my tebone framework. Git repo: [sebmandal/web](https://github.com/sebmandal/web) (consider open sourcing this)
 * I'm learning React
 * I'm going to learn SQL soon
-
-🌠 Future Projects
-===================
-* A React and Express finance web application written in Typescript (to learn and get accustomed to React)
-* Way more open-source projects and contributions to other open-source communities and developers.
-* Go full throttle on my business. To follow my lifelong dream of becoming a successful entrepreneur and CEO. This is a few years into the future still.
 
 🗣 Primary Languages
 ====================
