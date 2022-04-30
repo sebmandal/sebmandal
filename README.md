@@ -13,19 +13,33 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 
 I'm currently studying [IT and media production at Akademiet Drammen](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
 
+📖 What I know
+================
+
+- RESTful APIs
+- Web development - backend + frontend
+- React, Express, TypeScript
+- Python
+- Algorithms (writing + optimizing)
+- TypeScript, JavaScript
+- C, Rust (know less, but decent competency)
+- Any language is learnable, I'm a quick learner, and I'm flexible
+- Design (Figma, Adobe XD, decent in design principles)
+- Delegating / team leadership and motivation
+
 📖 Want to learn
 ================
 
-- cryptography
-- machine learning
-- statistics
-- working with large datasets for apis
-- react
-- next
-- redux
-- e2e encryption
-- blockchain
-- decentralised web
+- Cryptography
+- Machine learning
+- Statistics
+- Working with large datasets for apis
+- React (more)
+- Next.js
+- Redux
+- End-to-end encryption
+- Blockchain technology (specifics)
+- Decentralized web (how to benefit from this system)
 
 🗣 Primary Languages
 ====================
@@ -36,7 +50,7 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 * RegEx
 * I can easily adapt however, so any language should be fine on a project
 
-(English and Norwegian are my primary irl languages)
+(Native/proficient in English and Norwegian)
 
 📊 Statistics
 =============
@@ -48,6 +62,7 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 
 * **[Website](https://sebmandal.com)**
 * **[Email](mailto:sebastian.mandal@icloud.com)**
-* Discord: `sebmandal#1337`
+* **[Matrix](https://matrix.to/#/@sebmandal:matrix.org)**
+* **Discord: `sebmandal#1337`**
 
 ###### for those who didn't get it, the vanilla website is simply satire, when I say vanilla I mean literal vanilla JS for the web
