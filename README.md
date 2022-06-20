@@ -13,6 +13,11 @@ My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-s
 
 I'm currently studying [IT and media production at Akademiet Drammen](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
 
+📖 Product ideas
+=================
+
+- Licensed WYSIWYG API builder
+
 📖 What I know
 ================
 
