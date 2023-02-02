@@ -9,7 +9,7 @@
 🙋🏻‍♂️ Hey there, welcome to my GitHub page!
 ========================================
 
-My name is Sebastian Mandal, I'm a 16-year-old passionate and self-taught full-stack web developer from Norway. I love education, seeing progression in the internet and web-solutions, and I'm very passionate about logic, programming, mathematics, etc.
+My name is Sebastian Mandal, I'm a passionate and self-taught full-stack developer from Norway. I love education, seeing progression in the internet and web-solutions, and I'm very passionate about logic, programming, mathematics, etc.
 
 I'm currently studying [IT and media production at Akademiet Drammen](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
 
