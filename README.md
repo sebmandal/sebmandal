@@ -51,4 +51,4 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 
 * **[Website](https://sebmandal.com)**
 * **[Email](mailto:sebastian.mandal@icloud.com)**
-* **[LinkedIn](https://www.linkedin.com/in/sebmandal/)]**
+* **[LinkedIn](https://www.linkedin.com/in/sebmandal/)**
