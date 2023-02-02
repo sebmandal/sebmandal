@@ -18,44 +18,28 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 
 - Licensed WYSIWYG API builder
 
-📖 What I know
-================
+📖 What I know best
+====================
 
-- RESTful APIs
-- Web development - backend + frontend
+- Full-stack software development
 - React, Express, TypeScript
-- Python
-- Algorithms (writing + optimizing)
+- Python, Java
+- Algorithms, Machine Learning
 - TypeScript, JavaScript
-- C, Rust (know less, but decent competency)
 - Any language is learnable, I'm a quick learner, and I'm flexible
-- Design (Figma, Adobe XD, decent in design principles)
-- Delegating / team leadership and motivation
-
-📖 Want to learn
-================
-
-- Cryptography
-- Machine learning
-- Statistics
-- Working with large datasets for apis
-- React (more)
-- Next.js
-- Redux
-- End-to-end encryption
-- Blockchain technology (specifics)
-- Decentralized web (how to benefit from this system)
+- Design/media production software and solutions
+- Team leadership
 
 🗣 Primary Languages
 ====================
 
 * ⭐︎ Typescript
-* Javascript (Node.js and [vanilla](http://vanilla-js.com/))
 * Python
+* Java
 * RegEx
-* I can easily adapt however, so any language should be fine on a project
+* Any language given 1 week to read up
 
-(Native/proficient in English and Norwegian)
+(Native/proficient in English and Norwegian, conversational/working proficiency in Russian and Spanish)
 
 📊 Statistics
 =============
@@ -67,7 +51,4 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 
 * **[Website](https://sebmandal.com)**
 * **[Email](mailto:sebastian.mandal@icloud.com)**
-* **[Matrix](https://matrix.to/#/@sebmandal:matrix.org)**
-* **Discord: `sebmandal#1337`**
-
-###### for those who didn't get it, the vanilla website is simply satire, when I say vanilla I mean literal vanilla JS for the web
+* **[LinkedIn](https://www.linkedin.com/in/sebmandal/)]**
