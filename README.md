@@ -39,7 +39,7 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 * RegEx
 * Any language given 1 week to read up
 
-(Native/proficient in English and Norwegian, conversational/working proficiency in Russian and Spanish)
+Native/proficient in English (C2) and Norwegian (born)
 
 📊 Statistics
 =============
