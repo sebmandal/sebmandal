@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img height="180" alt="profile pic" src="https://cdn.discordapp.com/attachments/845438745939673088/867739877939085322/unknown.png"></img>
+    <img height="180" alt="profile pic" src="https://avatars.githubusercontent.com/u/68667029?s=400&u=5d5ee3845f71f14ead7c8b4a230098b2bf2982b3&v=4"></img>
     <br />
     Sebastian Mandal
   </h1>
@@ -9,26 +9,20 @@
 🙋🏻‍♂️ Hey there, welcome to my GitHub page!
 ========================================
 
-My name is Sebastian Mandal, I'm a passionate and self-taught full-stack developer from Norway. I love education, seeing progression in the internet and web-solutions, and I'm very passionate about logic, programming, mathematics, etc.
-
-I'm currently studying [IT and media production at Akademiet Drammen](https://www.akademiet.no/vgs/utdanningsprogram/informasjonsteknologi-og-medieproduksjon/).
-
-📖 Product ideas
-=================
-
-- Licensed WYSIWYG API builder
+My name is Sebastian Mandal, I'm a passionate and self-taught full-stack developer and graphic designer from Norway. I have a vocational degree in media production and have been working as a developer since 2022.
 
 📖 What I know best
 ====================
 
 - Full-stack software development
-- React, Express, TypeScript
+- UI/UX design - Figma, Sketch, Adobe Suite
+- React, Express, Node, TypeScript
 - Python, Java
-- Algorithms, Machine Learning
-- TypeScript, JavaScript
+- Algorithms & Machine Learning
+  - Natural Selection
+  - Evolution
+  - Simulation
 - Any language is learnable, I'm a quick learner, and I'm flexible
-- Design/media production software and solutions
-- Team leadership
 
 🗣 Primary Languages
 ====================
@@ -37,9 +31,9 @@ I'm currently studying [IT and media production at Akademiet Drammen](https://ww
 * Python
 * Java
 * RegEx
-* Any language given 1 week to read up
+* Any language or framework given a few weeks
 
-Native/proficient in English (C2) and Norwegian (born)
+Native/proficient in English (C2) and Norwegian (native)
 
 📊 Statistics
 =============
@@ -49,6 +43,5 @@ Native/proficient in English (C2) and Norwegian (born)
 📇 Contact me
 =============
 
-* **[Website](https://sebmandal.com)**
-* **[Email](mailto:sebastian.mandal@icloud.com)**
+* **[Discord](https://discord.gg/MBdRyWrWdR)**
 * **[LinkedIn](https://www.linkedin.com/in/sebmandal/)**
