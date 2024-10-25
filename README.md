@@ -10,9 +10,9 @@ My name is Sebastian Mandal, I'm a passionate and self-taught full-stack develop
 - UI/UX design - Figma, Sketch, Adobe Suite
 - React, Express, Node, TypeScript
 - Python, Java
-- Algorithms & Machine Learning
-  - Natural Selection
-  - Evolution
+- Algorithms/ML
+  - [Learning] Biological systems
+  - Evolution and neural networks
   - Simulation
 - Any language is learnable. I'm a quick learner, and flexible
 
