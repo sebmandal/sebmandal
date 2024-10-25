@@ -1,11 +1,3 @@
-<div align="center">
-  <h1>
-    <img height="180" alt="profile pic" src="https://avatars.githubusercontent.com/u/68667029?s=400&u=5d5ee3845f71f14ead7c8b4a230098b2bf2982b3&v=4"></img>
-    <br />
-    Sebastian Mandal
-  </h1>
-</div>
-
 🙋🏻‍♂️ Hey there, welcome to my GitHub page!
 ========================================
 
