@@ -14,7 +14,7 @@ My name is Sebastian Mandal, I'm a passionate and self-taught full-stack develop
   - Natural Selection
   - Evolution
   - Simulation
-- Any language is learnable, I'm a quick learner, and I'm flexible
+- Any language is learnable. I'm a quick learner, and flexible
 
 🗣 Primary Languages
 ====================
