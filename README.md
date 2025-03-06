@@ -1,6 +1,6 @@
-# 👋 Hey there, welcome to my GitHub!
+## 👋 Hey there, welcome to my GitHub!
 
-My name is **Sebastian Mandal**—I'm a software engineer, designer, and entrepreneur from Norway. I build businesses, design great user experiences, and develop scalable software solutions.
+My name is **Sebastian Mandal**. I'm a software engineer, designer, and entrepreneur from Norway. I build businesses, design great user experiences, and develop scalable software solutions.
 
 ## 🛠 What I Do
 - **Full-stack development** – TypeScript, React, Vue, Node.js, Python, Java
@@ -17,9 +17,6 @@ My name is **Sebastian Mandal**—I'm a software engineer, designer, and entrepr
 ## 🗣 Languages
 - **Fluent:** English (C2), Norwegian (Native)
 - **Programming:** TypeScript, Python, Java, SQL, RegEx, and more
-
-## 📊 GitHub Stats
-![Sebastian Mandal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebmandal&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 📇 Contact
 - **[LinkedIn](https://www.linkedin.com/in/sebmandal/)**
