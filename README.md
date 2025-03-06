@@ -5,7 +5,7 @@ My name is **Sebastian Mandal**. I'm a software engineer, designer, and entrepre
 ## 🛠 What I Do
 - **Full-stack development** – TypeScript, React, Vue, Node.js, Python, Java
 - **AI & Automation** – RAG, ML, and business process automation
-- **UI/UX Design** – Figma, Sketch, Adobe Suite
+- **UI/UX Design** – Figma, Adobe Suite (and way too much theory)
 - **Business & Startups** – Founder of Mandal, co-founder of Aien Research
 - **Developer Communities** – Built platforms with thousands of active users
 
