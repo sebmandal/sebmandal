@@ -12,7 +12,7 @@ My name is **Sebastian Mandal**. I'm a software engineer, designer, and entrepre
 ## 🚀 Current Work
 - **[Mandal Group](https://www.mandal.group)** – Chairman & founder
 - **[Aien Research](https://www.aien.no)** – Co-founder, building AI solutions for enterprises
-- **[Nautila Tech](https://www.nautila.tech)** – Software engineer & consultant
+- **[Nautila Tech](https://www.nautila.tech)** – Software engineering consultant
 
 ## 🗣 Languages
 - **Fluent:** English (C2), Norwegian (Native)
