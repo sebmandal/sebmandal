@@ -2,7 +2,9 @@
 
 My name is **Sebastian Mandal**. I'm a software engineer, designer, and entrepreneur from Norway. I build businesses, design great user experiences, and develop scalable software solutions.
 
-Professional vibe coder who breathes down the neck of the agent. Love design patterns and scalable code, will assure AI does to 😂
+Professional vibe coder who breathes down the neck of the agent.
+
+I love design patterns and scalable code, and WILL assure AI does too 😂
 
 ## 🛠 What I Do
 - **Full-stack development** – TypeScript, React, Vue, Node.js, Python, Java
