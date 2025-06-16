@@ -1,28 +1,29 @@
-## 👋 Hey there, welcome to my GitHub!
+👋 Hey there
 
-My name is **Sebastian Mandal**. I'm a software engineer, designer, and entrepreneur from Norway. I build businesses, design great user experiences, and develop scalable software solutions.
+### Introduction
 
-Professional vibe coder who breathes down the neck of the agent.
+Software engineer and designer turned professional vibe coder (with a focus on writing *good* code)
 
-I love design patterns and scalable code, and WILL assure AI does too 😂
+I love [design patterns](https://refactoring.guru/design-patterns) and [SOC](https://www.geeksforgeeks.org/software-engineering/separation-of-concerns-soc/). Writing scalable code shouldn't decelerate shipping time — if it does, you're doing it wrong
 
-## 🛠 What I Do
-- **Full-stack development** – TypeScript, React, Vue, Node.js, Python, Java
-- **AI & Automation** – RAG, ML, and business process automation
-- **UI/UX Design** – Figma, Adobe Suite (and way too much theory)
-- **Business & Startups** – Founder of Mandal, co-founder of Aien Research
-- **Developer Communities** – Built platforms with thousands of active users
+### Stack
 
-## 🚀 Current Work
-- **[Mandal Group](https://www.mandal.group)** – Chairman & founder
-- **[Aien Research](https://www.aien.no)** – Co-founder, building AI solutions for enterprises
-- **[Nautila Tech](https://www.nautila.tech)** – Software engineering consultant
+Next.js, Tailwind, Shadcn and Prisma. Used to do Python and Java. Still fluent in AOTA and all syntax is learnable
 
-## 🗣 Languages
-- **Fluent:** English (C2), Norwegian (Native)
-- **Programming:** TypeScript, Python, Java, SQL, RegEx, and more
+Diehard fan of Figma, but it doesn't cloud my judgment — I will use the best technology situationally
 
-## 📇 Contact
-- **[LinkedIn](https://www.linkedin.com/in/sebmandal/)**
-- **[Mandal Group](https://www.mandal.group)**
-- **Email:** sebastian.mandal@icloud.com
+### Doing
+
+Chairman of [Mandal Group](https://www.mandal.group)
+
+Shipping AI products at [Aien Research](https://www.aien.no) 🚀
+
+### Languages
+
+Native in English and Norwegian, passively learning other languages
+
+### Communication
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sebmandal/)
+
+I genuinely love using [email](mailto:sebastian@mandal.group)
