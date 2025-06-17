@@ -16,7 +16,7 @@ Diehard fan of Figma, but it doesn't cloud my judgment — I will use the best t
 
 Chairman of [Mandal Group](https://www.mandal.group)
 
-Shipping AI products at [Aien Research](https://www.aien.no) 🚀
+Shipping AI products — Send a message, let's make something!
 
 ### Languages
 
