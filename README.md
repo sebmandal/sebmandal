@@ -14,7 +14,7 @@ Diehard fan of Figma, but it doesn't cloud my judgment — I will use the best t
 
 ### Doing
 
-Chairman of [Mandal Group](https://www.mandal.group)
+Chairman of [Mandal Group](https://www.mandal.group) and co-founder of [Cohr](https://cohr.no)
 
 Shipping AI products — Send a message, let's make something!
 
