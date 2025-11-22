@@ -8,7 +8,7 @@ I love [design patterns](https://refactoring.guru/design-patterns) and [SoC](htt
 
 ### Stack
 
-Node, Express, Next.js, Tailwind, Shadcn and Prisma. Used to do Python and Java. Agnostic to language tho
+Node, Express, Next.js, Tailwind, Shadcn and Prisma. Used to do Python and Java. Agnostic to language
 
 Diehard fan of Figma, but I will use the best technology depending on the situation
 
