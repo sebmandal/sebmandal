@@ -14,9 +14,7 @@ Diehard fan of Figma, but I will use the best technology depending on the situat
 
 ### Doing
 
-Chairman of [Mandal Group](https://www.mandal.group) and co-founder of [Cohr](https://cohr.no)
-
-Shipping AI products — Send a message, let's make something!
+Co-founder and CEO of [Tendermore](https://tendermore.com)
 
 ### Languages
 
