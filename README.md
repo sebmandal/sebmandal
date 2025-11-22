@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Software engineer and designer turned professional vibe coder (with a focus on writing *good* code)
+Software engineer and UI/UX designer turned founder!
 
 I love [design patterns](https://refactoring.guru/design-patterns) and [SoC](https://www.geeksforgeeks.org/software-engineering/separation-of-concerns-soc/). Writing scalable code shouldn't decelerate shipping time; if it does, you're doing it wrong
 
